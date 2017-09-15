@@ -1,0 +1,5 @@
+ID:1034770
+KEY:6b57178e38ba8ab2fad8274c2ceb2c3da037492e8c99c0c3d14cfdb7fd776a76
+DeviceName: /dev/ttyTHS1
+BaudRate: 230400
+Version: versionM100_31
